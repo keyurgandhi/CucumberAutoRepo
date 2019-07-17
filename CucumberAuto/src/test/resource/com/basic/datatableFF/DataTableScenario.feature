@@ -7,8 +7,8 @@ Given User need to be on facebook page
 When Enter followng data
  |username |usersurname |mobile|
  |Tom      |Henks       |1345  |
- |Jack     |Danial      |2222  |
- |Tmi      |Henky       |1345  |
- |Jaky     |Dandd       |2222  |
+# |Jack     |Danial      |2222  |
+E |Tmi      |Henky       |1345  |
+# |Jaky     |Dandd       |2222  |
  
 
